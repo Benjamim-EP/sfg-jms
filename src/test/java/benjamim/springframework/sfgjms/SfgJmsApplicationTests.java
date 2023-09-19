@@ -1,4 +1,4 @@
-package guru.springframework.sfgjms;
+package benjamim.springframework.sfgjms;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

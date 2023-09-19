@@ -1,4 +1,4 @@
-package guru.springframework.sfgjms;
+package benjamim.springframework.sfgjms;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
